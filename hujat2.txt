@@ -1,0 +1,2 @@
+Dasturlash asoslari
+O‘zgaruvchilar va funksiyalar Pythonning muhim mavzularidir.

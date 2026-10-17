@@ -1,0 +1,2 @@
+Python dasturlash tili
+Python orqali dasturlar yozish mumkin.
